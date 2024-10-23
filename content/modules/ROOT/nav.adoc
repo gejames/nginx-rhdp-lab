@@ -1,7 +1,11 @@
-* xref:module-01.adoc[1. RPM Native Container]
-** xref:module-01.adoc#repositories[Repositories]
-** xref:module-01.adoc#software[Software]
+* xref:module-01-intro.rst[1. Module 01 Introduction]
+** xref:module-01-lab-00.rst[Lab 00]
+** xref:module-01-lab-01.rst[Lab 01]
+** xref:module-01-lab-02.rst[Lab 02]
+** xref:module-01-lab-03.rst[Lab 03]
 
-* xref:module-02.adoc[2. GitHub Sourced Container]
-** xref:module-02.adoc#prerequisites[Install Prerequisites]
-** xref:module-02.adoc#container[Enable Container]
+* xref:module-02-intro.rst[2. Module 02 Introduction]
+** xref:module-02-lab-00.rst[Lab 00]
+** xref:module-02-lab-01.rst[Lab 01]
+** xref:module-02-lab-02.rst[Lab 02]
+
